@@ -1,0 +1,2 @@
+FROM node:24.0.2-slim
+
